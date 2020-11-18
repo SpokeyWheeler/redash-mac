@@ -2,6 +2,8 @@
 
 ## Preliminaries
 
+You should install Docker Desktop for Mac first. Instructions can be found here: https://docs.docker.com/docker-for-mac/install/
+
 If you don't already have these, 
 ```
 brew install wget
