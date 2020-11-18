@@ -56,3 +56,5 @@ LOG:  database system is ready to accept connections
 LOG:  autovacuum launcher started
 ```
 Now run `docker-compose up -d`
+
+`open localhost` should now show you the setup page for redash.
